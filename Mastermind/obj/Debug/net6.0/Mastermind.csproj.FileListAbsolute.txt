@@ -1,0 +1,15 @@
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.exe
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.deps.json
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.runtimeconfig.json
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.dll
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.pdb
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.csproj.AssemblyReference.cache
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.AssemblyInfo.cs
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.dll
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\refint\Mastermind.dll
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.pdb
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.genruntimeconfig.cache
+C:\Users\vinnn\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\ref\Mastermind.dll
